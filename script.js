@@ -16,4 +16,7 @@ document.getElementById('noButton').addEventListener('mouseover', function() {
 
     button.style.left = `${randomX}px`;
     button.style.top = `${randomY}px`;
+    // document.getElementById("yesButton").addEventListener("click", function() {
+    //     window.location.href = "secondpage.html";
+    // });
 });
