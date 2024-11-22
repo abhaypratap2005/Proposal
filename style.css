@@ -14,6 +14,7 @@ background: radial-gradient(circle, rgba(212,215,227,1) 18%, rgba(212,215,227,1)
     height: 100vh;
     background-color: #f0f0f0;
     font-family: Arial, sans-serif;
+    margin-left: 0px;
 }
 
 .container {
@@ -38,4 +39,11 @@ button {
 
 #noButton {
     position: absolute;
+}
+.cont{
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    height: 100px;
+    width: 500px;
 }
